@@ -225,4 +225,4 @@ async def freefire(ctx):
 
 
 
-client.run('MTI2NTg0NTc5ODAwMDc4NzU2OQ.GNzkI9.pTZyW9YZ1AQ-i1Kg5CCxdQAPErdCnmxHD7RMg0')
+client.run('')
