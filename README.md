@@ -6,5 +6,7 @@ Nada de mais, apenas uma forma de dar risada nesse mundo tão caótico. hahahaha
 
 
 
-https://github.com/user-attachments/assets/7e550248-6114-41ce-b3b6-64acd5cbbabb
+https://github.com/user-attachments/assets/82bf380a-68d1-48e4-9ca0-e6ff31db4859
+
+
 
